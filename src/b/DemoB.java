@@ -12,4 +12,8 @@ public class DemoB {
 		System.out.println(a + b);
 	}
 
+	// Coming from gitHub
+	public static void subtract(int a, int b) {
+		System.out.println(a - b);
+	}
 }
