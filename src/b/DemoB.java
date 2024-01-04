@@ -16,4 +16,11 @@ public class DemoB {
 	public static void subtract(int a, int b) {
 		System.out.println(a - b);
 	}
+	
+	// Add again from eclipse
+	
+	public void divide() {
+		System.out.println("divided");
+		
+	}
 }
