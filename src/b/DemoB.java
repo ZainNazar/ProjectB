@@ -23,4 +23,7 @@ public class DemoB {
 		System.out.println("divided");
 		
 	}
+	// again from gitHub
+	public void multiply(){
+	}
 }
